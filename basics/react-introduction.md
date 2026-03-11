@@ -10,7 +10,7 @@ The series I’m following is called **“Chai aur React”**, and the approach 
 
 From the start, the main idea was clear:
 
-> React is not just about writing UI — it is about keeping UI and data in sync automatically.
+- React is not just about writing UI — it is about keeping UI and data in sync automatically.
 
 ---
 
